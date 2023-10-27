@@ -8,6 +8,5 @@ MiColoniaShop is a web platform designed to connect people with local grocery st
 - Integrates data from local store products.
 
 ## Screenshots
-
-[Web_Page.jpg]
+![WEB_PAGE](Web_Page.jpg)
 
