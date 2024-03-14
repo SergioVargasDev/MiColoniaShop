@@ -16,6 +16,10 @@ In the wake of COVID-19, the local grocery sector faced significant hardships, w
 * Tailwind CSS: For responsive design, ensuring an engaging user experience.
 * Supabase: For advanced PostgreSQL database management, authentication, and API services.
 
+## Contribution:
+
+The introduction of MiColoniaShop is expected to positively impact the affected percentages, leading to a decrease in the rate of store closures and financial losses within the local grocery sector. 
+
 ## Screenshots
 ![WEB_PAGE](Web_Page.jpg)
 
