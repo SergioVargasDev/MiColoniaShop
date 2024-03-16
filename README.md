@@ -20,6 +20,12 @@ In the wake of COVID-19, the local grocery sector faced significant hardships, w
 
 The introduction of MiColoniaShop is expected to positively impact the affected percentages, leading to a decrease in the rate of store closures and financial losses within the local grocery sector. 
 
-## Screenshots
-![WEB_PAGE](Web_Page.jpg)
+## Web Page
+![WEB_PAGE](menu.jpg)
+![WEB_PAGE](login.jpg)
+![WEB_PAGE](register.jpg)
+![WEB_PAGE](foods.jpg)
+![WEB_PAGE](shops.jpg)
+![WEB_PAGE](opinions.jpg)
+![WEB_PAGE](dashboard.jpg)
 
