@@ -22,15 +22,17 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 
 ## Web Page
 
-### Menu
+### Homepage
 
 <div align = "center">
    <img src= "images/menu.jpg" width = 412)>
 </div>
 
+### Login/Sign Up
+<img src= "images/login.jpg" width = 412> <img src= "images/register.jpg" width = 412>
 
-![WEB_PAGE](images/login.jpg)
-![WEB_PAGE](images/register.jpg)
+
+
 ![WEB_PAGE](images/foods.jpg)
 ![WEB_PAGE](images/shops.jpg)
 ![WEB_PAGE](images/opinions.jpg)
