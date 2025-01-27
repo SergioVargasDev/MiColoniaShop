@@ -34,7 +34,7 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 ### Nearby Shops/Storefront
 <img src= "images/shops.jpg" width = 412> <img src= "images/foods.jpg" width = 412>
 
-### Community
+### Communities
 <div align = "center">
 <img src= "images/opinions.jpg" width = 412> 
 </div>
