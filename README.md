@@ -31,8 +31,8 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 ### Login/Sign Up
 <img src= "images/login.jpg" width = 412> <img src= "images/register.jpg" width = 412>
 
-### Storefront/Nearby Shops
-<img src= "images/foods.jpg" width = 412> <img src= "images/shops.jpg" width = 412>
+### Nearby Shops/Storefront
+<img src= "images/shops.jpg" width = 412> <img src= "images/foods.jpg" width = 412>
 
 ### Community/Dashboard
 <img src= "images/opinions.jpg" width = 412> <img src= "images/dashboard.jpg" width = 412>
