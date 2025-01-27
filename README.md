@@ -12,7 +12,7 @@ In the wake of COVID-19, the local grocery sector faced significant hardships, w
 
 ## Technology Stack:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+* Next.js: For comprehensive web and mobile application development.
 * Tailwind CSS: For responsive design, ensuring an engaging user experience.
 * Supabase: For advanced PostgreSQL database management, authentication, and API services.
 
