@@ -22,7 +22,7 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 
 ## Web Page
 
-### Homepage
+### Home
 
 <div align = "center">
    <img src= "images/menu.jpg" width = 412)>
@@ -31,11 +31,8 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 ### Login/Sign Up
 <img src= "images/login.jpg" width = 412> <img src= "images/register.jpg" width = 412>
 
+### Storefront/Nearby Shops
+<img src= "images/foods.jpg" width = 412> <img src= "images/shops.jpg" width = 412>
 
-
-![WEB_PAGE](images/foods.jpg)
-![WEB_PAGE](images/shops.jpg)
-![WEB_PAGE](images/opinions.jpg)
-![WEB_PAGE](images/dashboard.jpg)
-
-
+### Community/Dashboard
+<img src= "images/opinions" width = 412> <img src= "images/dashboard" width = 412>
