@@ -1,4 +1,6 @@
 # MiColoniaShop
+
+## Overview
 MiColoniaShop is a web platform tailored to empower local grocery stores and small businesses during challenging times, like the COVID-19 pandemic. It simplifies shopping for neighborhood products, promoting local business sustainability and user convenience.
 
 ## Purpose
